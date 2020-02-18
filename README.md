@@ -34,4 +34,4 @@ I have written 3 solutions by using 3 different approaches on each branch. Enoy 
 
 [charAt() method — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
 
-[for() method — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+[for loop — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
