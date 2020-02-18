@@ -2,4 +2,4 @@
 
 
 
-![code](./snapshot_1st_solution.png)
+![snapshot](./snapshot_1st_solution.png)
