@@ -1,10 +1,11 @@
-# Exercise:  Write function named "_capitalizeFirstLetter_" that accepts a string as an argument.
+# Exercise:  Write a function named "capitalizeFirstLetter" that accepts a string as an argument.
 
 The function should convert the first character of each word to uppercase. 
 
-**Example** _the quick brown fox_ → _The Quick Brown Fox_. 
+**Example** 
+the quick brown fox -> The Quick Brown Fox. 
 Print your solution to the console.
 
  **Expected Output**
 
-capitalizeFirstLetter("hey there"); → `Hey There` */
+capitalizeFirstLetter("hey there"); ->`Hey There`
