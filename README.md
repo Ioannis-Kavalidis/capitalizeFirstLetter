@@ -1,1 +1,1 @@
-# capitalizeFirstLetter
+# 3rd solution on the "capitalizeFirstLetter" exercise
