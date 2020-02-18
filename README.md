@@ -3,7 +3,9 @@
 The function should convert the first character of each word to uppercase. 
 
 **Example** 
+
 the quick brown fox -> The Quick Brown Fox. 
+
 Print your solution to the console.
 
  **Expected Output**
