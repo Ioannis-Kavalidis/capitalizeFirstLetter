@@ -13,3 +13,4 @@ Print your solution to the console.
 capitalizeFirstLetter("hey there"); ->`Hey There`
 
 
+I have written 3 solutions by using 3 different approaches on each branch. Enoy reading them!
