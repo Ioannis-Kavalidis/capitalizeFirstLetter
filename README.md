@@ -4,13 +4,13 @@ The function should convert the first character of each word to uppercase.
 
 **Example** 
 
-the quick brown fox -> The Quick Brown Fox. 
+capitalizeFirstLetter("hey there will you come and play with us")
 
 Print your solution to the console.
 
  **Expected Output**
 
-capitalizeFirstLetter("hey there"); ->`Hey There`
+capitalizeFirstLetter("hey there will you come and play with us"); -> "Hey There Will you Come And Play With Us?"
 
 
 I have written 3 solutions by using 3 different approaches on each branch. Enoy reading them!
